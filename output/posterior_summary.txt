@@ -1,0 +1,101 @@
+================================================================================
+SOLAR FLARE PULSE: STOCHASTIC SIGNAL RECOVERY
+Bayesian Parameter Estimation - POSTERIOR STATISTICS
+================================================================================
+
+MCMC RESULTS SUMMARY
+--------------------------------------------------------------------------------
+Total posterior samples: 15000
+Number of parameters: 3
+
+
+================================================================================
+PARAMETER 1: A (Amplitude) [dimensionless]
+================================================================================
+
+POINT ESTIMATES:
+  Posterior Mean:               0.003168
+  Posterior Median:             0.003042
+  Posterior Mode (approx):      0.003042
+
+UNCERTAINTY MEASURES:
+  Standard Deviation:           0.000671
+  Median Abs Deviation:         0.000447
+  Interquartile Range:          0.001303
+
+CREDIBLE INTERVALS:
+  68% CI (1 std dev):       [  0.002508,   0.003811]
+  95% CI:                   [  0.002140,   0.004688]
+
+DISTRIBUTION SUMMARY:
+  Minimum:                      0.001460
+  25th percentile:              0.002672
+  50th percentile (median):     0.003042
+  75th percentile:              0.003584
+  Maximum:                      0.006022
+
+SHAPE DESCRIPTORS:
+  Skewness:                     0.676984
+  Kurtosis:                     0.238001
+
+================================================================================
+PARAMETER 2: tau (Quench Time) [time units]
+================================================================================
+
+POINT ESTIMATES:
+  Posterior Mean:               2.153259
+  Posterior Median:             2.146129
+  Posterior Mode (approx):      2.146129
+
+UNCERTAINTY MEASURES:
+  Standard Deviation:           0.216378
+  Median Abs Deviation:         0.156859
+  Interquartile Range:          0.473376
+
+CREDIBLE INTERVALS:
+  68% CI (1 std dev):       [  1.907880,   2.381256]
+  95% CI:                   [  1.721531,   2.566041]
+
+DISTRIBUTION SUMMARY:
+  Minimum:                      1.647077
+  25th percentile:              2.026886
+  50th percentile (median):     2.146129
+  75th percentile:              2.316599
+  Maximum:                      2.681624
+
+SHAPE DESCRIPTORS:
+  Skewness:                    -0.095639
+  Kurtosis:                    -0.520464
+
+================================================================================
+PARAMETER 3: omega (Frequency) [rad/time]
+================================================================================
+
+POINT ESTIMATES:
+  Posterior Mean:               1.023580
+  Posterior Median:             1.018211
+  Posterior Mode (approx):      1.018211
+
+UNCERTAINTY MEASURES:
+  Standard Deviation:           0.019916
+  Median Abs Deviation:         0.012082
+  Interquartile Range:          0.039724
+
+CREDIBLE INTERVALS:
+  68% CI (1 std dev):       [  1.004853,   1.044577]
+  95% CI:                   [  1.000773,   1.072122]
+
+DISTRIBUTION SUMMARY:
+  Minimum:                      1.000014
+  25th percentile:              1.007957
+  50th percentile (median):     1.018211
+  75th percentile:              1.034727
+  Maximum:                      1.125571
+
+SHAPE DESCRIPTORS:
+  Skewness:                     1.159486
+  Kurtosis:                     1.149890
+
+================================================================================
+END OF REPORT
+================================================================================
