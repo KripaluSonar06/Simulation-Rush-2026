@@ -1,0 +1,14 @@
+# Core numerics
+numpy==1.24.0
+scipy==1.10.0
+
+# Data handling
+pandas==1.5.3
+
+# Plotting and visualization
+matplotlib==3.5.3
+seaborn==0.12.2
+
+# Utilities
+tqdm==4.65.0
+scikit-learn==1.2.0
